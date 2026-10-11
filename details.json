@@ -1,0 +1,14 @@
+{
+  "name": "BIT Typing Main Courses",
+  "creator": "bitiskola",
+  "courses": {
+    "HU-qwertz": [
+      "HU-qwertz/examplecourse.txt",
+      "HU-qwertz/01-home-row.txt"
+    ],
+    "US-qwerty": [
+      "US-qwerty/examplecourse.txt",
+      "US-qwerty/01-home-row.txt"
+    ]
+  }
+}
